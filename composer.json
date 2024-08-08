@@ -1,0 +1,16 @@
+{
+    "name": "pxfrmd/first-php-project",
+    "description": "example",
+    "authors": [
+	{
+	    "name":"Evgenii Vlasov",
+	    "email":"senzik@gmail.com"
+	}
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pxfrmd\\FirstPhpProject\\": "src/"
+        }
+    },
+    "require": {}
+}
